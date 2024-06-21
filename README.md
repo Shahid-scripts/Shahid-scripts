@@ -1,4 +1,4 @@
-# 🏄‍♂️ FShahid Scriptsorrest Knight
+# 🏄‍♂️ Shahid Scripts
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
