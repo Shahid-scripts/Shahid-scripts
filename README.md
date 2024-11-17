@@ -26,7 +26,7 @@ I'm an indie full-stack developer and Flutter enthusiast, building my vision of 
 #
 ### 📺 Latest Flutter Apps
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Cakelah](https://drive.google.com/file/d/1YJQ79OR5PGP5qf-Weg2ZdLOpXH_isOPC/view?usp=sharing)
+[![Cakelah](https://drive.google.com/file/d/1YJQ79OR5PGP5qf-Weg2ZdLOpXH_isOPC/view?usp=sharing)]
 [![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=8deKXiV-eLE&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=8deKXiV-eLE)
 [![I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=f_ZxgQQ74Lc)
 [![The ULTIMATE Pioneers of Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=The+ULTIMATE+Pioneers+of+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "The ULTIMATE Pioneers of Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
